@@ -1,0 +1,9 @@
+Experimental Setup
+
+Languages: C, Java, Python
+Algorithms: Bubble sort, improved bubble sort, selection sort, heap sort, insertion sort, shell sort, merge sort, quick sort, bucket sort
+Data sizes: 1,000; 10,000; 100,000; 1,000,000 random integers
+Data range: 0 to 1,000,000, duplicates allowed
+Repeats: 5 runs per algorithm per data size; average and standard deviation recorded
+Validation: Every completed run checks that the output is sorted in nondecreasing order. Before/after samples are recorded in CSV files.
+Timeout handling: O(n^2) algorithms are logged as TIMEOUT_ESTIMATED_GT_10_MIN_OR_IMPRACTICAL for large data sizes instead of forcing the machine to wait more than 10 minutes.

@@ -1,0 +1,6 @@
+Python version: 3.13.1
+Platform: Windows-11-10.0.22631-SP0
+Repeats: 5
+Data sizes: [1000, 10000, 100000, 1000000]
+Random range: 0..1000000
+Seed: 20260603
