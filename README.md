@@ -4,6 +4,10 @@ Coursework project for Data Structures Lab 13.
 
 This project benchmarks sorting algorithms across Python, C, and Java, then records comparison results and charts for analysis.
 
+## Preview
+
+![Sorting Algorithm Benchmark preview](assets/preview.png)
+
 ## Coursework Note
 
 Built as an academic project to compare sorting algorithm behavior across languages and analyze runtime differences with repeatable benchmark data.
@@ -39,4 +43,3 @@ Timing results depend on hardware, compiler/JDK/Python versions, and background 
 - Results in `results/`
 - Charts in `charts/`
 - Original report as `report.pdf`
-
